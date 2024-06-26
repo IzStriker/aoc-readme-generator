@@ -18,6 +18,7 @@ var languageMap = map[string]string{
 	"go": "Go",
 	"py": "Python",
 	"ts": "TypeScript",
+	"pl": "Perl",
 }
 
 type Day struct {
